@@ -1,1 +1,1 @@
-print("azul bmw e vermelho ferraria")
+print("azul bmw")
